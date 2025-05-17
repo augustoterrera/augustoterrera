@@ -4,7 +4,7 @@
   <a href="mailto:augustoterrera@gmail.com?subject=Contacto desde GitHub">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
 </a>
-  <a href="https://www.linkedin.com/in/augustoterrera" target="_blank">
+  <a href="https://www.linkedin.com/in/augusto-terrera/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </div>
