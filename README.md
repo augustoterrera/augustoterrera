@@ -1,29 +1,47 @@
-# Hello! I'm Terrera Augusto, a Full Stack Developer from Argentina<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="40px"/>
+# Augusto Terrera · Desarrollador Fullstack
 
-<div align="center">
-  <a href="mailto:augustoterrera@gmail.com?subject=Contacto desde GitHub">
-    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
-</a>
-  <a href="https://www.linkedin.com/in/augusto-terrera/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</div>
+**Programador Universitario · UTN FRT (2025)**  
+Tucumán, Argentina · Disponible para proyectos remotos
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px">&nbsp;***About me***
+[![Email](https://img.shields.io/badge/email-augustoterrera@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:augustoterrera@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-augusto--terrera-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-terrera/)
 
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+---
 
-I’m a web developer with experience in full stack development using the **MERN stack** (MongoDB, Express.js, React, Node.js). I also work with **TypeScript**, **C#**, **Python**, and **SQL**, which allows me to adapt to different environments and development needs.
+## Sobre mí
 
-I enjoy building efficient, scalable, and well-structured web applications. I’m always looking to improve my skills and stay updated with modern development tools and best practices.
+Desarrollo productos digitales completos: desde la base de datos y la API hasta la interfaz y la automatización. Me especializo en aplicaciones web fullstack, plataformas SaaS y agentes de IA integrados con WhatsApp usando n8n.
 
-**💻 Tech I’m passionate about:** Web development, backend services, RESTful APIs, and clean, functional frontends.                   
+Actualmente trabajo en **Waichatt** y soy co-fundador de **WaiProp**, un CRM inmobiliario SaaS con IA que desarrollamos en equipo.
 
-- 🌱 I’m currently learning:
-  - ASP.NET Core with C#
-  - React and TypeScript
+---
 
-- 👯 I’m open to collaborating on web development projects and learning-focused initiatives  
-- 💬 Feel free to reach out if you want to discuss tech, share ideas, or build something together  
-- 🎯 My goal: keep growing as a developer and contribute to meaningful software solutions  
-- 📫 You can contact me at: [augustoterrera@gmail.com](mailto:augustoterrera@gmail.com)
+## Stack
+
+**Frontend**
+`TypeScript` `Next.js` `Astro` `React`
+
+**Backend**
+`NestJS` `Express` `Python`
+
+**Bases de datos**
+`PostgreSQL` `Prisma` `Supabase` `MongoDB` `SQLite`
+
+**DevOps & Herramientas**
+`Docker` `VPS` `Git` `n8n`
+
+---
+
+## Proyectos reales
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| **WaiProp** | CRM inmobiliario SaaS con agente de IA en WhatsApp | Next.js · NestJS · PostgreSQL · IA |
+| **Dashboard analítico** | Panel financiero con integración Meta Insights y chat IA | Next.js · TypeScript |
+| **Gestión de salón** | Sistema con turnos, clientes, servicios y productos | Next.js · Prisma |
+| **Agentes IA WhatsApp** | Automatizaciones para ecommerce e inmobiliarias | n8n · APIs · BD |
+| **Landings** | Sites institucionales y de producto | Astro · Next.js |
+
+---
+
+*Abierto a colaboraciones y proyectos freelance.*
