@@ -32,15 +32,13 @@ Actualmente trabajo en **Waichatt** y soy co-fundador de **WaiProp**, un CRM inm
 
 ---
 
-## Proyectos reales
+## Productos en producción
 
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| **WaiProp** | CRM inmobiliario SaaS con agente de IA en WhatsApp | Next.js · NestJS · PostgreSQL · IA |
-| **Dashboard analítico** | Panel financiero con integración Meta Insights y chat IA | Next.js · TypeScript |
-| **Gestión de salón** | Sistema con turnos, clientes, servicios y productos | Next.js · Prisma |
-| **Agentes IA WhatsApp** | Automatizaciones para ecommerce e inmobiliarias | n8n · APIs · BD |
-| **Landings** | Sites institucionales y de producto | Astro · Next.js |
+| Proyecto | Descripción | Stack | Link |
+|----------|-------------|-------|------|
+| **WaiProp** | CRM inmobiliario SaaS con agente de IA en WhatsApp, gestión de propiedades, leads y sitio web | Next.js · NestJS · PostgreSQL · IA | [waiprop.com](https://waiprop.com) |
+| **Ferre Pro** | Dashboard analítico con métricas financieras, integración Meta Insights y chat con IA | Next.js · TypeScript | [ferrepro.waichatt.com](https://ferrepro.waichatt.com) |
+| **Beautia** | Sistema de gestión para salones de belleza: turnos, clientes, servicios y productos | Next.js · Prisma | [beautia.waichatt.com](https://beautia.waichatt.com) |
 
 ---
 
